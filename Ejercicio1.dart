@@ -3,6 +3,13 @@ import 'dart:io';
 
 void main() 
 {
+  /*Nombre: Sulub Flores Javier Alexander
+    Maestro: Joel Ivan Chuc Uc
+    Practica: 2
+    Escuela: Universidad Tecnologica Metropolitana
+    Parcial: 1
+    Grado: 5B
+    Cuatrimestre: enero-abril 2022*/
   
   //int horas = 0;
   int salario = 120;
