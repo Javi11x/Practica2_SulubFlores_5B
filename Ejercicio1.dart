@@ -5,6 +5,7 @@ void main()
 {
   /*Nombre: Sulub Flores Javier Alexander
     Maestro: Joel Ivan Chuc Uc
+    Asignatura: Desarrollo Movil Multiplataforma
     Practica: 2
     Escuela: Universidad Tecnologica Metropolitana
     Parcial: 1
